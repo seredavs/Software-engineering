@@ -5,3 +5,4 @@ public class K extends null {
     String kk();
 }
 // Blue conflict line
+// Blue r8
