@@ -5,3 +5,4 @@ public class B extends null {
     long ac();
 }
 // Blue r5
+// Blue r6
