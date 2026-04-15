@@ -5,3 +5,4 @@ public class K extends null {
     String kk();
 }
 // Red r4
+// Blue r9
