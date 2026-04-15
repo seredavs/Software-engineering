@@ -7,3 +7,4 @@ public class B extends null {
 // Blue changed r1
 // Blue r5
 // Blue r7
+// Blue r10
